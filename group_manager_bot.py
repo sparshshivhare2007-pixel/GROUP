@@ -9,11 +9,11 @@ from telethon.errors import FloodWaitError
 # ============================================================
 # ⚙️ CONFIG — YAHAN APNA DATA DAALO
 # ============================================================
-API_ID = 123456                       # my.telegram.org se
-API_HASH = "your_api_hash_here"       # my.telegram.org se
-BOT_TOKEN = "your_bot_token_here"     # @BotFather se
+API_ID = 32141443                       # my.telegram.org se
+API_HASH = "4f34a89257ac316505f5a47b237454cc"       # my.telegram.org se
+BOT_TOKEN = "8850375771:AAH_WSl8p3n4m9E98s2Xj4tpzjbaQWhxY-A"     # @BotFather se
 
-GROUP_ID = -1001234567890             # Apne group ki ID
+GROUP_ID = -1001843179386             # Apne group ki ID
 
 PROMOTE_WEEKLY_MESSAGES = 1000        # 1000+ msgs/week = promote
 INACTIVE_DAYS = 3                     # Silent days before tagging
